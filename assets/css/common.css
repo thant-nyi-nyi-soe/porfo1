@@ -1,0 +1,36 @@
+/* CONTAINER START */
+.container {
+	max-width: 	1480px;
+	padding: 0 20px;
+	margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+	.container {
+		padding: 0 15px;
+	}
+}
+/* CONTAINER END */
+
+/* RESPONSIVE START */
+.sp {
+	display: none;
+}
+
+@media screen and (max-width: 768px) {
+	.pc {
+		display: none;
+	}
+	.sp {
+		display: block;
+	}
+}
+/* RESPONSIVE END */
+
+
+
+
+
+
+
+
