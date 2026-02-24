@@ -1,3 +1,4 @@
+// HAMBURGER
 const $burger = $(".burger");
 if ($burger.length) {
 	const tl1 = gsap.timeline({paused: true });
@@ -26,3 +27,4 @@ if ($burger.length) {
 		isExit = !isExit;
 	});
 }
+// HAMBURGER

@@ -1,6 +1,6 @@
 /* CONTAINER START */
 .container {
-	max-width: 	1480px;
+	max-width: 	1320px;
 	padding: 0 20px;
 	margin: 0 auto;
 }
@@ -11,21 +11,6 @@
 	}
 }
 /* CONTAINER END */
-
-/* RESPONSIVE START */
-.sp {
-	display: none;
-}
-
-@media screen and (max-width: 768px) {
-	.pc {
-		display: none;
-	}
-	.sp {
-		display: block;
-	}
-}
-/* RESPONSIVE END */
 
 
 
